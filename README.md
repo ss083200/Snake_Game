@@ -11,4 +11,4 @@ The food.py file contains the Food class, which represents the food item for the
 
 The scorecard.py file defines the Scoreboard class, responsible for displaying and updating the player's score. The score increases each time the snake eats food, and when the game ends, the final score and a "GAME OVER" message are displayed.
 
-The game is built by implementing OOPS and tried to keep the code mosular.
+The game is built by implementing OOPS and tried to keep the code modular.
